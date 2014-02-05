@@ -8,7 +8,16 @@
     <title>4p3</title>
     <link>http://c.4p3.eu</link>
     <description>Omlengesek elvont dolgokrol, a vilagrol, meg minden szarrol.</description>
-    <pubDate>Sat, 01 Feb 2014 20:00:00 -0000</pubDate>
+    <pubDate>Wed, 05 Feb 2014 21:00:00 -0000</pubDate>
+    <item>
+      <title>Das Zahlungsmittel</title>
+      <link>http://c.4p3.eu/penzugy/2014/02/05/daszahlungsmittel.html</link>
+      <description>&lt;p&gt;December vege fele lettem figyelmes &lt;a href=&quot;http://www.reddit.com/r/dogecoin&quot;&gt;erre&lt;/a&gt; a rendhagyo, enyhen vicces crypto-valutara. Majdnem sikerult ignoralni, de belem hasitott a par &lt;i class=&quot;fa fa-btc&quot;&gt;&lt;/i&gt; erme egyenlegu tarcam felelotlen letorlesenek (ugyse&amp;#39; lesz ebbol semmi) emleke.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 05 Feb 2014 21:00:00 -0000</pubDate>
+      <guid>http://c.4p3.eu/penzugy/2014/02/05/daszahlungsmittel.html</guid>
+      <dc:date>2014-02-05T21:00:00Z</dc:date>
+    </item>
     <item>
       <title>Captain Phillips (2013)</title>
       <link>http://c.4p3.eu/film/2014/02/01/cptphillips.html</link>
@@ -17,6 +26,15 @@
       <pubDate>Sat, 01 Feb 2014 20:00:00 -0000</pubDate>
       <guid>http://c.4p3.eu/film/2014/02/01/cptphillips.html</guid>
       <dc:date>2014-02-01T20:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Csath Geza: novellak</title>
+      <link>http://c.4p3.eu/konyv/2014/01/29/csathnovellak.html</link>
+      <description>&lt;p&gt;Idonkent kifejezetten erdekes multszazad elejerol olvasni. Feltem, hogy csak egy &lt;a href=&quot;https://hu.wikipedia.org/wiki/Cs%C3%A1th_G%C3%A9za&quot;&gt;hetprobas drogos&lt;/a&gt; elvont novellaskotete lesz, de csalodtam: kifejezetten szorakoztato, noveros, eroszakolos, gyilkolos elbeszelesek gyujtemenye. Itt-ott egy kis lelektannal, drog abuzussal es szuicidummal. A vegen sajnaltam, hogy nincs tobb.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 29 Jan 2014 22:00:00 -0000</pubDate>
+      <guid>http://c.4p3.eu/konyv/2014/01/29/csathnovellak.html</guid>
+      <dc:date>2014-01-29T22:00:00Z</dc:date>
     </item>
     <item>
       <title>Jegyzet firefoxhoz</title>
@@ -54,24 +72,6 @@
       <guid>http://c.4p3.eu/konyv/2013/08/09/szonya.html</guid>
       <dc:date>2013-08-09T12:00:00Z</dc:date>
     </item>
-    <item>
-      <title>Stanislaw Lem: Solaris</title>
-      <link>http://c.4p3.eu/konyv/2013/01/01/solaris.html</link>
-      <description>&lt;p&gt;Meglepoen jo, Lemhez kepest is. thebeast szerint az orosz filmet is erdemes megnezni.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 01 Jan 2013 12:00:00 -0000</pubDate>
-      <guid>http://c.4p3.eu/konyv/2013/01/01/solaris.html</guid>
-      <dc:date>2013-01-01T12:00:00Z</dc:date>
-    </item>
-    <item>
-      <title>Orson Scott Card: Shadow of the hegemon</title>
-      <link>http://c.4p3.eu/konyv/2013/01/01/shadowofthehegemon.html</link>
-      <description>&lt;p&gt;Nagy csalodas volt. Igaz, nem olvastam a shadow saga elso reszet (ez a masodik), lehet az mindent mas szinbe helyez, es ertelmet nyer tole minden kiszamithato fordulat (he ezt erossen ketlem).&lt;/p&gt;
-</description>
-      <pubDate>Tue, 01 Jan 2013 12:00:00 -0000</pubDate>
-      <guid>http://c.4p3.eu/konyv/2013/01/01/shadowofthehegemon.html</guid>
-      <dc:date>2013-01-01T12:00:00Z</dc:date>
-    </item>
-    <dc:date>2014-02-01T20:00:00Z</dc:date>
+    <dc:date>2014-02-05T21:00:00Z</dc:date>
   </channel>
 </rss>
