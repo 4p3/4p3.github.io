@@ -8,7 +8,16 @@
     <title>4p3</title>
     <link>http://c.4p3.eu</link>
     <description>Omlengesek elvont dolgokrol, a vilagrol, meg minden szarrol.</description>
-    <pubDate>Sat, 08 Feb 2014 22:45:00 -0000</pubDate>
+    <pubDate>Mon, 10 Feb 2014 19:29:00 -0000</pubDate>
+    <item>
+      <title>Alekszej Tolsztoj: Garin mernok hiperboloidja</title>
+      <link>http://c.4p3.eu/konnyv/2014/02/10/garinmernok.html</link>
+      <description>&lt;p&gt;Egy arisztokrata proletar kozepszeru regenye. Vannak benne tetszetos reszek, szeretheto karakterek; elvezheto, de tul sok benne a propaganda. Itt-ott egyszerusit, idealizal.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 10 Feb 2014 19:29:00 -0000</pubDate>
+      <guid>http://c.4p3.eu/konnyv/2014/02/10/garinmernok.html</guid>
+      <dc:date>2014-02-10T19:29:00Z</dc:date>
+    </item>
     <item>
       <title>Lac gallinaceum</title>
       <link>http://c.4p3.eu/technikum/2014/02/08/lacgallinaceum.html</link>
@@ -63,15 +72,6 @@
       <guid>http://c.4p3.eu/ego/2014/01/25/uber-das-bose.html</guid>
       <dc:date>2014-01-25T16:00:00Z</dc:date>
     </item>
-    <item>
-      <title>Valami regi</title>
-      <link>http://c.4p3.eu/ego/2014/01/24/valami-regi.html</link>
-      <description>&lt;p&gt;Igazabol soha nem a formaval, hanem a tartalommal van a baj. Mellettem Kinga amugy &lt;a href=&quot;http://theitcrowd.wikia.com/wiki/Denholm_Reynholm&quot;&gt;Denholmosan&lt;/a&gt; kiabalva fuzi a laptopjat, hogy &amp;quot;di kidsz ar riding do buksz&amp;quot; (&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt; &lt;a href=&quot;http://www.duolingo.com/&quot;&gt;duolingo&lt;/a&gt;), s ez, keveredve a szokasos esti melankoliaval meg is hozta a kedvem regota piheno blogom felelesztesere.&lt;/p&gt;
-</description>
-      <pubDate>Fri, 24 Jan 2014 16:00:00 -0000</pubDate>
-      <guid>http://c.4p3.eu/ego/2014/01/24/valami-regi.html</guid>
-      <dc:date>2014-01-24T16:00:00Z</dc:date>
-    </item>
-    <dc:date>2014-02-08T22:45:00Z</dc:date>
+    <dc:date>2014-02-10T19:29:00Z</dc:date>
   </channel>
 </rss>
