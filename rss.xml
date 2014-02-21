@@ -8,7 +8,16 @@
     <title>4p3</title>
     <link>http://c.4p3.eu</link>
     <description>Omlengesek elvont dolgokrol, a vilagrol, meg minden szarrol.</description>
-    <pubDate>Sun, 16 Feb 2014 19:30:00 -0000</pubDate>
+    <pubDate>Fri, 21 Feb 2014 21:00:00 -0000</pubDate>
+    <item>
+      <title>Figyelo szemetek Kijevre vessetek</title>
+      <link>http://c.4p3.eu/politika/2014/02/21/figyelokijev.html</link>
+      <description>&lt;p&gt;Bar kerulom a hirportalokat es a politikat, de az ukrajnai tortenesek meghaladtak az ingerkuszobomet. Valaki bekopizta ircre:&lt;/p&gt;
+</description>
+      <pubDate>Fri, 21 Feb 2014 21:00:00 -0000</pubDate>
+      <guid>http://c.4p3.eu/politika/2014/02/21/figyelokijev.html</guid>
+      <dc:date>2014-02-21T21:00:00Z</dc:date>
+    </item>
     <item>
       <title>Tag der Sonne</title>
       <link>http://c.4p3.eu/ego/2014/02/16/tagdersonne.html</link>
@@ -63,15 +72,6 @@
       <guid>http://c.4p3.eu/konyv/2014/01/29/csathnovellak.html</guid>
       <dc:date>2014-01-29T22:00:00Z</dc:date>
     </item>
-    <item>
-      <title>Jegyzet firefoxhoz</title>
-      <link>http://c.4p3.eu/technikum/2014/01/27/jegyzet-firefoxhoz.html</link>
-      <description>&lt;p&gt;Ezt a postot eredetileg csak magamnak irtam, de kiteszem ide is, hatha valakinek a hasznara valik.&lt;/p&gt;
-</description>
-      <pubDate>Mon, 27 Jan 2014 16:00:00 -0000</pubDate>
-      <guid>http://c.4p3.eu/technikum/2014/01/27/jegyzet-firefoxhoz.html</guid>
-      <dc:date>2014-01-27T16:00:00Z</dc:date>
-    </item>
-    <dc:date>2014-02-16T19:30:00Z</dc:date>
+    <dc:date>2014-02-21T21:00:00Z</dc:date>
   </channel>
 </rss>
