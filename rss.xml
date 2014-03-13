@@ -8,7 +8,16 @@
     <title>4p3</title>
     <link>http://c.4p3.eu</link>
     <description>Omlengesek elvont dolgokrol, a vilagrol, meg minden szarrol.</description>
-    <pubDate>Thu, 27 Feb 2014 17:39:00 -0000</pubDate>
+    <pubDate>Wed, 12 Mar 2014 22:12:00 -0000</pubDate>
+    <item>
+      <title>A few things to consider</title>
+      <link>http://c.4p3.eu/ego/2014/03/12/afewthingstoconsider.html</link>
+      <description>&lt;p&gt;Living is hard, emotionally demanding and most of times it looks like a pointless thing to do.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 12 Mar 2014 22:12:00 -0000</pubDate>
+      <guid>http://c.4p3.eu/ego/2014/03/12/afewthingstoconsider.html</guid>
+      <dc:date>2014-03-12T22:12:00Z</dc:date>
+    </item>
     <item>
       <title>Dallas Buyers Club (2013)</title>
       <link>http://c.4p3.eu/film/2014/02/27/dallasbuyers.html</link>
@@ -63,15 +72,6 @@
       <guid>http://c.4p3.eu/penzugy/2014/02/05/daszahlungsmittel.html</guid>
       <dc:date>2014-02-05T21:00:00Z</dc:date>
     </item>
-    <item>
-      <title>Captain Phillips (2013)</title>
-      <link>http://c.4p3.eu/film/2014/02/01/cptphillips.html</link>
-      <description>&lt;p&gt;Egyre inkabb erzem ugy, hogy 2000 ota evente csak 1-1 jo filmet csinalnak - de az is lehet, hogy rossz helyrol valogatok. Ez egy roppant kozhelyes, kiszamithato es hatasvadasz film. Ennel meg a kalozos southpark resznek is magasabb volt a szinvonala.&lt;/p&gt;
-</description>
-      <pubDate>Sat, 01 Feb 2014 20:00:00 -0000</pubDate>
-      <guid>http://c.4p3.eu/film/2014/02/01/cptphillips.html</guid>
-      <dc:date>2014-02-01T20:00:00Z</dc:date>
-    </item>
-    <dc:date>2014-02-27T17:39:00Z</dc:date>
+    <dc:date>2014-03-12T22:12:00Z</dc:date>
   </channel>
 </rss>
