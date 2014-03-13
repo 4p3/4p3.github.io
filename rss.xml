@@ -8,7 +8,16 @@
     <title>4p3</title>
     <link>http://c.4p3.eu</link>
     <description>Omlengesek elvont dolgokrol, a vilagrol, meg minden szarrol.</description>
-    <pubDate>Wed, 12 Mar 2014 22:12:00 -0000</pubDate>
+    <pubDate>Thu, 13 Mar 2014 17:15:00 -0000</pubDate>
+    <item>
+      <title>Valakinek a kedveert</title>
+      <link>http://c.4p3.eu/ego/2014/03/13/katze.html</link>
+      <description>&lt;p&gt;Die Katze trinkt Milch.&lt;/p&gt;
+</description>
+      <pubDate>Thu, 13 Mar 2014 17:15:00 -0000</pubDate>
+      <guid>http://c.4p3.eu/ego/2014/03/13/katze.html</guid>
+      <dc:date>2014-03-13T17:15:00Z</dc:date>
+    </item>
     <item>
       <title>A few things to consider</title>
       <link>http://c.4p3.eu/ego/2014/03/12/afewthingstoconsider.html</link>
@@ -63,15 +72,6 @@
       <guid>http://c.4p3.eu/technikum/2014/02/08/lacgallinaceum.html</guid>
       <dc:date>2014-02-08T22:45:00Z</dc:date>
     </item>
-    <item>
-      <title>Das Zahlungsmittel</title>
-      <link>http://c.4p3.eu/penzugy/2014/02/05/daszahlungsmittel.html</link>
-      <description>&lt;p&gt;December vege fele lettem figyelmes &lt;a href=&quot;http://www.reddit.com/r/dogecoin&quot;&gt;erre&lt;/a&gt; a rendhagyo, enyhen vicces crypto-valutara. Majdnem sikerult ignoralni, de belem hasitott a par &lt;i class=&quot;fa fa-btc&quot;&gt;&lt;/i&gt; erme egyenlegu tarcam felelotlen letorlesenek (ugyse&amp;#39; lesz ebbol semmi) emleke.&lt;/p&gt;
-</description>
-      <pubDate>Wed, 05 Feb 2014 21:00:00 -0000</pubDate>
-      <guid>http://c.4p3.eu/penzugy/2014/02/05/daszahlungsmittel.html</guid>
-      <dc:date>2014-02-05T21:00:00Z</dc:date>
-    </item>
-    <dc:date>2014-03-12T22:12:00Z</dc:date>
+    <dc:date>2014-03-13T17:15:00Z</dc:date>
   </channel>
 </rss>
