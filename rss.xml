@@ -8,7 +8,16 @@
     <title>4p3</title>
     <link>http://c.4p3.eu</link>
     <description>Omlengesek elvont dolgokrol, a vilagrol, meg minden szarrol.</description>
-    <pubDate>Sun, 23 Mar 2014 19:57:00 -0000</pubDate>
+    <pubDate>Wed, 02 Apr 2014 18:42:00 -0000</pubDate>
+    <item>
+      <title>Complete Kobold Guide to Game Design</title>
+      <link>http://c.4p3.eu/konyv/2014/04/02/koboldgamedesign.html</link>
+      <description>&lt;p&gt;&lt;a href=&quot;http://www.reddit.com/r/rpg&quot;&gt;r/rpg-n&lt;/a&gt; irtak, hogy ha egy konyre kellene korlatozni a szerepjatekos konyvgyujtemenyed, akkor ezt valaszd. Ezzel tulajdonkeppen egyet is ertek, de meg sem erzem ugy, hogy ez az essze gyujtemeny a szabalykonyvek csimborasszojat nyujtana. Vannak benne erdekes, gondolatebreszto ertekezesek, de sok elcsepelt, bugyuta kozhely is. Egy olvasast meger - foleg ha rendszeresen jatszol, papirral es ceruzaval, baratokkal.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 02 Apr 2014 18:42:00 -0000</pubDate>
+      <guid>http://c.4p3.eu/konyv/2014/04/02/koboldgamedesign.html</guid>
+      <dc:date>2014-04-02T18:42:00Z</dc:date>
+    </item>
     <item>
       <title>Snowpiercer (2013)</title>
       <link>http://c.4p3.eu/film/2014/03/23/snowpiercer.html</link>
@@ -63,15 +72,6 @@
       <guid>http://c.4p3.eu/ego/2014/02/16/tagdersonne.html</guid>
       <dc:date>2014-02-16T19:30:00Z</dc:date>
     </item>
-    <item>
-      <title>Alekszej Tolsztoj: Garin mernok hiperboloidja</title>
-      <link>http://c.4p3.eu/konnyv/2014/02/10/garinmernok.html</link>
-      <description>&lt;p&gt;Egy arisztokrata proletar kozepszeru regenye. Vannak benne tetszetos reszek, szeretheto karakterek; elvezheto, de tul sok benne a propaganda. Itt-ott egyszerusit, idealizal.&lt;/p&gt;
-</description>
-      <pubDate>Mon, 10 Feb 2014 19:29:00 -0000</pubDate>
-      <guid>http://c.4p3.eu/konnyv/2014/02/10/garinmernok.html</guid>
-      <dc:date>2014-02-10T19:29:00Z</dc:date>
-    </item>
-    <dc:date>2014-03-23T19:57:00Z</dc:date>
+    <dc:date>2014-04-02T18:42:00Z</dc:date>
   </channel>
 </rss>
