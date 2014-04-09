@@ -8,7 +8,16 @@
     <title>4p3</title>
     <link>http://c.4p3.eu</link>
     <description>Omlengesek elvont dolgokrol, a vilagrol, meg minden szarrol.</description>
-    <pubDate>Sun, 06 Apr 2014 20:23:00 -0000</pubDate>
+    <pubDate>Wed, 09 Apr 2014 13:25:00 -0000</pubDate>
+    <item>
+      <title>Das Billige ist immer das Teuerste</title>
+      <link>http://c.4p3.eu/ego/2014/04/09/azszoftverekrol.html</link>
+      <description>&lt;p&gt;Europai ertelemben vett kulturember nem vitatja masok szemelyes preferenciajat. Egy &lt;del&gt;muveltebb&lt;/del&gt; sznobabb illeto valahogy igy mondana:&lt;/p&gt;
+</description>
+      <pubDate>Wed, 09 Apr 2014 13:25:00 -0000</pubDate>
+      <guid>http://c.4p3.eu/ego/2014/04/09/azszoftverekrol.html</guid>
+      <dc:date>2014-04-09T13:25:00Z</dc:date>
+    </item>
     <item>
       <title>Tom Clancy: The hunt for red october</title>
       <link>http://c.4p3.eu/konyv/2014/04/06/huntforredoctober.html</link>
@@ -65,15 +74,6 @@ Ha ezeken tul tudja tenni magat, akkor minden konyveket kedvelo, militans Battle
       <guid>http://c.4p3.eu/film/2014/02/27/dallasbuyers.html</guid>
       <dc:date>2014-02-27T17:39:00Z</dc:date>
     </item>
-    <item>
-      <title>Figyelo szemetek Kijevre vessetek</title>
-      <link>http://c.4p3.eu/politika/2014/02/21/figyelokijev.html</link>
-      <description>&lt;p&gt;Bar kerulom a hirportalokat es a politikat, de az ukrajnai tortenesek meghaladtak az ingerkuszobomet. Valaki bekopizta ircre:&lt;/p&gt;
-</description>
-      <pubDate>Fri, 21 Feb 2014 21:00:00 -0000</pubDate>
-      <guid>http://c.4p3.eu/politika/2014/02/21/figyelokijev.html</guid>
-      <dc:date>2014-02-21T21:00:00Z</dc:date>
-    </item>
-    <dc:date>2014-04-06T20:23:00Z</dc:date>
+    <dc:date>2014-04-09T13:25:00Z</dc:date>
   </channel>
 </rss>
