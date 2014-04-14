@@ -8,7 +8,16 @@
     <title>4p3</title>
     <link>http://c.4p3.eu</link>
     <description>Omlengesek elvont dolgokrol, a vilagrol, meg minden szarrol.</description>
-    <pubDate>Sat, 12 Apr 2014 19:43:00 -0000</pubDate>
+    <pubDate>Mon, 14 Apr 2014 19:19:00 -0000</pubDate>
+    <item>
+      <title>John Steakley: Armor</title>
+      <link>http://c.4p3.eu/konyv/2014/04/14/armor.html</link>
+      <description>&lt;p&gt;This is the first book that i&amp;#39;ve found worth reading, browsing &lt;a href=&quot;http://www.reddit.com/r/books/comments/22p8tk/just_reread_armor_by_john_steakly_still_as/&quot;&gt;r/books.&lt;/a&gt; Not that i despise the community, but generally speaking, it&amp;#39;s just the same old ellipticaljerk over popular books.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 14 Apr 2014 19:19:00 -0000</pubDate>
+      <guid>http://c.4p3.eu/konyv/2014/04/14/armor.html</guid>
+      <dc:date>2014-04-14T19:19:00Z</dc:date>
+    </item>
     <item>
       <title>Her (2013)</title>
       <link>http://c.4p3.eu/film/2014/04/12/her.html</link>
@@ -65,15 +74,6 @@ Ha ezeken tul tudja tenni magat, akkor minden konyveket kedvelo, militans Battle
       <guid>http://c.4p3.eu/ego/2014/03/13/katze.html</guid>
       <dc:date>2014-03-13T17:15:00Z</dc:date>
     </item>
-    <item>
-      <title>A few things to consider</title>
-      <link>http://c.4p3.eu/ego/2014/03/12/afewthingstoconsider.html</link>
-      <description>&lt;p&gt;Living is hard, emotionally demanding and most of times it looks like a pointless thing to do.&lt;/p&gt;
-</description>
-      <pubDate>Wed, 12 Mar 2014 22:12:00 -0000</pubDate>
-      <guid>http://c.4p3.eu/ego/2014/03/12/afewthingstoconsider.html</guid>
-      <dc:date>2014-03-12T22:12:00Z</dc:date>
-    </item>
-    <dc:date>2014-04-12T19:43:00Z</dc:date>
+    <dc:date>2014-04-14T19:19:00Z</dc:date>
   </channel>
 </rss>
