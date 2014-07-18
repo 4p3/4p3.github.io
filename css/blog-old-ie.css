@@ -47,7 +47,7 @@ h3 {
 
 .content {
     padding: 2em 1em 0;
-    margin: 0 3.5em 0;
+    margin: 0 20% 0;
 }
 
 .post {
@@ -58,6 +58,7 @@ h3 {
     font-size: 2em;
     color: #222;
     margin-bottom: 0.2em;
+    text-align: center;
 }
 
 .post-description {
@@ -70,6 +71,7 @@ h3 {
     color: #999;
     font-size: 90%;
     margin: 0;
+    text-align: center;
 }
 
 .post-images {
