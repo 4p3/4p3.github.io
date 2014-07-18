@@ -1,45 +1,46 @@
 <!doctype html>
-<html lang="en">
+<html>
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Omlengesek elvont dolgokrol, a vilagrol, meg minden szarrol.">
-<meta name="keywords" content="4p3, blog">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="4p3, blog, bejegyzes">
 
     <title>Lac gallinaceum</title>
 
-<link rel="stylesheet" href="../../../../css/main.css">
-<link rel="stylesheet" href="../../../../css/font-awesome.min.css">
-<link rel="stylesheet" href="../../../../css/syntax.css">
- 
+    <link rel="stylesheet" href="../../../../css/base.css">
+    <link rel="stylesheet" href="../../../../css/font-awesome.css">
     <!--[if lte IE 8]>
-        <link rel="stylesheet" href="css/main-grid-old-ie.css">
+        <link rel="stylesheet" href="../../../../css/grids-old-ie.css">
     <![endif]-->
     <!--[if gt IE 8]><!-->
-        <link rel="stylesheet" href="../../../../css/main-grid.css">
+        <link rel="stylesheet" href="../../../../css/grids.css">
     <!--<![endif]-->
-  
     <!--[if lte IE 8]>
-        <link rel="stylesheet" href="css/layouts/blog-old-ie.css">
+        <link rel="stylesheet" href="../../../../css/blog-old-ie.css">
     <![endif]-->
     <!--[if gt IE 8]><!-->
-        <link rel="stylesheet" href="../../../../css/layouts/blog.css">
+        <link rel="stylesheet" href="../../../../css/blog.css">
     <!--<![endif]-->
-  
 </head>
 
 <body>
+<div class="header">
+    <div class="pure-menu pure-menu-open pure-menu-horizontal">
+        <ul>
+            <li class="pure-menu-selected"><a href="#"><i class="fa fa-lightbulb-o"></i>  blog</a></li>
+            <li><a href="#"><i class="fa fa-book"></i>  konyvek</a></li>
+            <li><a href="#"><i class="fa fa-film"></i>  filmek</a></li>
+            <li><a href="#"><i class="fa fa-archive"></i>  archivum</a></li>
+            <li><a href="#"><i class="fa fa-male"></i>  rolam</a></li>
+        </ul>
+    </div>
+</div>
 
 <div id="layout" class="pure-g">
-    
+    <div class="content pure-u-1">
+        <div class="posts">
 
-    <div class="content pure-u-1 pure-u-med-1-2">
-        <div>
-            <!-- A wrapper for all the blog posts -->
-            <div class="posts">
-                <h1 class="content-subhead"><i class="fa fa-folder-open"></i> Lac gallinaceum</h1>
-
-                <p>Nem mintha fontos, vagy erdekes tema lenne, de igy sabbath este ehhez van kedvem: par szo az oldalrol.</p>
+            <p>Nem mintha fontos, vagy erdekes tema lenne, de igy sabbath este ehhez van kedvem: par szo az oldalrol.</p>
 
 <p>Amikor ugy dontottem, hogy utat engedek <del>narcisztikus egomnak</del> annak a tompa, nyomo erzesnek a nyakszirtemen, amely jelzi szamomra, hogy blogot kell irni, csak egy dolgot tudtam: nem lesz benne javascrip, php, *sql. Nem azert, mert ezeket tartom a modern webfejlesztes megrontoinak (de) vagy aggodnek a skalazhatosag miatt - egyszeruen elegansabb egy ilyen kis <del>szar</del> blogot html-ben vezetni.</p>
 
@@ -50,7 +51,7 @@ Mivel a domain melle kapott tarhely nem csak keves, de keves es keves, ezert a b
 
 <p><code>
     jekyll build</p>
-<div class="highlight"><pre><code class="language-text" data-lang="text">cd _site\
+<div class="highlight"><pre><code class="text language-text" data-lang="text">cd _site\
 
 git add -A
 git commit -m &quot;uj post. fascinatign&quot;
@@ -59,21 +60,14 @@ git push
 <p></code></p>
 
 
-            </div>
-
-            
-            <div class="footer">
-                <div class="pure-menu pure-menu-horizontal pure-menu-open">
-                    <ul>
-                        <li><a href="/index.html">[ Blog ]</a></li>
-                        <li><a href="/rolam.html">[ Rolam ]</a></li>
-                    </ul>
-                </div>
-
+        </div> <!-- end of posts -->
+        <div class="footer">
+            <div>
+                <a href="#">Minden jog fenntartva.</a>
             </div>
         </div>
+
     </div>
 </div>
-
 </body>
 </html>
