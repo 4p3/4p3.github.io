@@ -45,6 +45,7 @@ h3 {
 
 .content {
     padding: 2em 1em 0;
+    margin: 0 3.5em 0;
 }
 
 .post {
@@ -87,11 +88,9 @@ h3 {
 @media (min-width: 48em) {
     .content {
         padding: 2em 3em 0;
-/*        margin-left: 25%;*/
     }
 
     .header {
-/*        margin: 80% 2em 0;*/
         text-align: center;
     }
 }
