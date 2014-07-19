@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Stanislaw Lem: A kudarc"
+date:   2013-07-05 16:00:00
+categories: 'konyv'
+tags: ['scifi', 'retro']
+---
+
+Nothing went as expected.
+
+<h4>8/10</h4>

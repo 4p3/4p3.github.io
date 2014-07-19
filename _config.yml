@@ -1,0 +1,9 @@
+name: 4p3
+url: http://c.4p3.eu
+description: "Omlengesek elvont dolgokrol, a vilagrol, meg minden szarrol."
+author: 4p3
+markdown: redcarpet
+pygments: true
+paginate: 7
+rss_post_limit: 7
+paginate_path: "oldal:num"
