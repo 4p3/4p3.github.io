@@ -106,7 +106,11 @@ title: majom blog
             </div>
             {% endif %}
             <div>
-                <a href="http://en.wikipedia.org/wiki/All_rights_reserved">Minden jog fenntartva.</a>
+                {% if paginator.total_pages == 1 %}
+                <a href="/jog.html">Minden jog fenntartva.</a>
+                {% else %}
+                <a href="../jog.html">Minden jog fenntartva.</a>
+                {% endif %}
             </div>
         </div>
 
