@@ -28,5 +28,4 @@ tags: ['scifi','akcio','disztopia']
 	Kozben rajottem, hogy tul sok ilyen "reszleten" akadtam fent, hosszu lenne felsorolni. Egyszeruen csak egy ujabb hollywoodi "nagyon latvanyos" szemet. Imdb ertekelesre tobbet nem fogok hagyatkozni.
 </p>
 
-
 <h4>5/10</h4>
