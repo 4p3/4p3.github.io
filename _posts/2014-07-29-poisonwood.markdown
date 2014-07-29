@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Barbara Kingsolver: The Poisonwood Bible"
-date:   2014-04-06 20:23:00
+date:   2014-07-29 19:32:00
 categories: 'konyv'
 tags: ['afrika','drama']
 ---
