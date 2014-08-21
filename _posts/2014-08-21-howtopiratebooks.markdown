@@ -21,12 +21,12 @@ In your favorite IRC client:
 For example if you wanted the 2014 Hugo award winner Ancillary Justice by Ann Leckie:
 
 <code>
-	<viking23> @search Ancillary Justice Ann Leckie<br>
-	<bot> I have found 1 file(s) for your query: Ancillary Justice Ann Leckie. Displaying 1:<br>
-	<bot> !fojteach Ann Leckie - [Imperial Radch 01] - Ancillary Justice.rar ::INFO:: 866.44 KiB<br>
-	<viking23>  !fojteach Ann Leckie - [Imperial Radch 01] - Ancillary Justice.rar<br>
-	<bot> I have added Ann Leckie - [Imperial Radch 01] - Ancillary Justice.rar as 3 in my queue. This is file 1 of 75 allowed in your queue. The send will be initiated as soon as possible.<br>
-	<bot> After waiting 0 min(s), Ann Leckie - [Imperial Radch 01] - Ancillary Justice.rar is on the way.<br>
+	(viking23) @search Ancillary Justice Ann Leckie<br>
+	(bot) I have found 1 file(s) for your query: Ancillary Justice Ann Leckie. Displaying 1:<br>
+	(bot) !fojteach Ann Leckie - [Imperial Radch 01] - Ancillary Justice.rar ::INFO:: 866.44 KiB<br>
+	(viking23)  !fojteach Ann Leckie - [Imperial Radch 01] - Ancillary Justice.rar<br>
+	(bot) I have added Ann Leckie - [Imperial Radch 01] - Ancillary Justice.rar as 3 in my queue. This is file 1 of 75 allowed in your queue. The send will be initiated as soon as possible.<br>
+	(bot) After waiting 0 min(s), Ann Leckie - [Imperial Radch 01] - Ancillary Justice.rar is on the way.<br>
 </code>
 
 And that's it, the bot sends you the book through dcc.
