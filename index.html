@@ -9,18 +9,18 @@ layout: default
         <p class="post-meta">
         <i class="fa fa-tags"></i> kategoria:
         {% if page.categories contains 'konyv' %}
-        	<i class="fa fa-book"></i> konyv
+        	<i class="fa fa-book"></i> konyv;
         {% endif %}
         {% if page.categories contains 'film' %}
-        	<i class="fa fa-film"></i> film
+        	<i class="fa fa-film"></i> film;
         {% endif %}
         {% if page.categories contains 'technikum' %}
         	<i class="fa fa-keyboard-o"></i> technikum
         {% endif %}
         {% if page.categories contains 'ego' %}
-        	<i class="fa fa-user"></i> ego
+        	<i class="fa fa-user"></i> ego;
         {% endif %}
-        ;  <i class="fa fa-calendar"></i> datum: {{ page.date | %Y-%m-%d }}
+         <i class="fa fa-calendar"></i> datum: {{ page.date | %Y-%m-%d }}
         </p>
     </header>
     <div class="post-description">
