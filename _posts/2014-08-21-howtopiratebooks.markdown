@@ -6,9 +6,9 @@ categories: 'howto'
 tags: ['book','pirate','irc']
 ---
 
-My buddies used to joke about how some music album/movie/game is so bad that instead of pirating it deserves to vikinged, meaning that we should raid the house of the authors, loot everything valuable (compensation for wasting our time) rape their wives (compensation for the lack of fun) and kill their children (proactive measurement for the future generations).
+My buddies used to joke about how some music album/movie/game is so bad that instead of pirating, it deserves to be vikinged, meaning that we should raid the house of the authors, loot everything valuable (compensation for wasting our time) rape their wives (compensation for the lack of fun) and kill their children (proactive measurement for the future generations).
 
-My opinion is that <mark>very few products (from the entertainment industry) deserves the benefit of the doubt</mark>. Considering the educating nature of books and the fact that public libraries exist, I don't think that downloading an e-book is something that should be prosecuted. Anyway I didn't wanted to rant about ethics.
+My opinion is that <mark>very few products (from the entertainment industry) deserve the benefit of the doubt</mark>. Considering the educating nature of books and the fact that public libraries exist, I don't think that downloading an e-book is something that should be prosecuted. Anyway I didn't wanted to rant about ethics.
 
 In your favorite <a href="https://en.wikipedia.org/wiki/IRC_client">IRC client</a>:
 
