@@ -68,14 +68,14 @@ title: majom blog
             {% if paginator.total_pages > 1 %}
             <div>
                 {% if paginator.previous_page %}
-                    <a class="pure-button pure-button-disabled" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-angle-left"></i> Elozo oldal</a> 
+                    <a class="pure-button" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-angle-left"></i> Elozo oldal</a> 
                 {% else %}
                     <a class="pure-button pure-button-disabled" href="#"><i class="fa fa-angle-left"></i> Elozo oldal</a>
                 {% endif %}
                 {% if paginator.next_page %}
                     <a class="pure-button" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Kovetkezo oldal <i class="fa fa-angle-right"></i></a>
                 {% else %}
-                    <a class="pure-button" href="#">Kovetkezo oldal <i class="fa fa-angle-right"></i></a>
+                    <a class="pure-button pure-button-disabled" href="#">Kovetkezo oldal <i class="fa fa-angle-right"></i></a>
                 {% endif %}
             </div>
             {% endif %}
