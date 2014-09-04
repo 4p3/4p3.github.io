@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Ba Dum Tss"
+date:   2014-09-02 22:15:00
+categories: 'technikum'
+tags: ['trolls','irc','nohupuk']
+---
+
+&lt;ggergely&gt; hogy megalázzák a linuxosokat
+&lt;ggergely&gt; kaptok raspit.. de a házát sem tudjátok win nélkül megtervezni :D
+&lt;@gabucino&gt; hogy lehet egy linuxost megjobban megalazni
+&lt;@l1x&gt; en ugy szoktam hogy megnyomom a sleep gombot a laptopjukon
