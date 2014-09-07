@@ -2,7 +2,7 @@
 layout: post
 title:  "How to viking books through irc"
 date:   2014-08-21 21:45:11
-categories: 'howto'
+categories: 'technikum'
 tags: ['book','pirate','irc']
 ---
 
