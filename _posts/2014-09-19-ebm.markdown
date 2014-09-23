@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "A bizonyitekokon alapulo orvoslasrol par szoban"
+date:   2014-09-02 22:15:00
+categories: 'sophia'
+tags: ['orvos','EBM','BAO']
+---
+
+Lehet, hogy a kutya se fogja elolvasni, de hatha. Szoval csak cimszavakban, egyszeruen, kozerthetoen: Evidence Based Medicine. Mi is ez? Miert kell ez?
+
+Az utobbi ~100 evben sokat fejlodott a(z) (orvos)tudomany. Hatalmas mennyisegu tudas halmozodott fel, s bar ez nem lenne problema, de egyre gyorsabban fejlodunk. Amit a mult heten(/honapban/evben) elolvasott az ember, az mara mar elavult lehet. (Arrol nem is beszelve, hogy temerdek a silany, a valosaggal helyenkent meg csak koszono viszonyban sem levo "szakmai" cikk.) Egy jo szakmeber frissen tartja tudasat, ezert rendszeresen forgatja az aktualis tudomanyos folyoiratokat, szakirodalmat. De ez hogy is jon ide?
+
+Amikor az orvos/beteg - komplex es/vagy nem rutin - (terapias) dontes elott all, merlegelnie kell, hogy sajat tapasztalatain kivul milyen forrasokra tamaszkodik es azt is, hogy relevans kerdeseket tesz-e fel maganak. Ha ez az antiviralis szer a gyogyszergyar szerint csimpanzokon jol mukodik, akkor beadhatom-e az ebolas betegemnek? Az a bodzaviragos borradir a noklapjabol tenyleg jo az orbancra? Szamit-e a magas koleszterinszint <a href="https://en.wikipedia.org/wiki/Idiopathic_thrombocytopenic_purpura">ITP-nel</a>?
+
+Ezt a folyamatot konnyiti meg bizonyitekokon alapulo orvoslas, egy eljaras, melynek sarkpontjai a kovetkezok:
+
+<ul>
+	<li>Egy relevans klinikai kerdes megfogalmazasa.</li>
+	<li>Ezen kerdeshez a legjobb bizonyitekok felkutatasa.</li>
+	<li>A felkutatott bizonyitekok kritikus ertekelese.</li>
+	<li>A bizonyitekok alkalmazasa a felmerult esetben.</li>
+</ul>
+
+Ezekbol a legnehezebb a bizonyitekok felkutatasa es ertekelese. A keresesben segithet a <a href="http://www.ncbi.nlm.nih.gov/pubmed">pubmed</a> es a <a href="http://www.cochrane.org/">cochrane</a>; az ertekelesben pedig az alabbi tablazat[1]:
+
+<table class="pure-table pure-table-horizontal">
+    <thead>
+        <tr>
+            <th>A bizonyitek megbizhatosaga (az alacsonyabb ertek jobb)</th>
+            <th>Leiras</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Rendszerezett attekinto tanulmanyok randomizalt, kontrollalt klinikai vizsgalatokbol</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Randomizalt, kontrollalt klinikai vizsgalatok</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Kohorsz-vizsgalatok</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Eset-kontroll vizsgalatok</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Eset sorozat tanulmanyok</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Szakerto velemenye alapkutatasok utan</td>
+        </tr>
+    </tbody>
+</table>
+
+Tovabbi olvasnivalo:<br>
+<a href="http://www.etk.pte.hu/files/tiny_mce/File/oktatas/OktatasiAnyagok/KLK/20120309/Decsi_ABizOrvoslas.pdf">Decsi Tamas: A bizonyitekokon alapulo orvoslas</a><br>
+<a href="http://www.cebm.net/">Center for Evidence Based Medicine</a>
+
+[1] Practising evidence-based anaesthesia, Oxford handbook of Anaesthesia 3rd edition (2012) alapjan
