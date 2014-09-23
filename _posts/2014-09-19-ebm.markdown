@@ -8,7 +8,7 @@ tags: ['orvos','EBM','BAO']
 
 Lehet, hogy a kutya se fogja elolvasni, de hatha. Szoval csak cimszavakban, egyszeruen, kozerthetoen: Evidence Based Medicine. Mi is ez? Miert kell ez?
 
-Az utobbi ~100 evben sokat fejlodott a(z) (orvos)tudomany. Hatalmas mennyisegu tudas halmozodott fel, s bar ez nem lenne problema, de egyre gyorsabban fejlodunk. Amit a mult heten(/honapban/evben) elolvasott az ember, az mara mar elavult lehet. (Arrol nem is beszelve, hogy temerdek a silany, a valosaggal helyenkent meg csak koszono viszonyban sem levo "szakmai" cikk.) Egy jo szakmeber frissen tartja tudasat, ezert rendszeresen forgatja az aktualis tudomanyos folyoiratokat, szakirodalmat. De ez hogy is jon ide?
+Az utobbi ~100 evben sokat fejlodott a(z) (orvos)tudomany. Hatalmas mennyisegu tudas halmozodott fel, s bar ez nem lenne problema, de egyre gyorsabban fejlodunk. Amit a mult heten(/honapban/evben) elolvasott az ember, az mara mar elavult lehet. (Arrol nem is beszelve, hogy temerdek a silany, a valosaggal helyenkent meg csak koszono viszonyban sem levo "szakmai" cikk.) Egy jo szakember frissen tartja tudasat, ezert rendszeresen forgatja az aktualis tudomanyos folyoiratokat, szakirodalmat. De ez hogy is jon ide?
 
 Amikor az orvos/beteg - komplex es/vagy nem rutin - (terapias) dontes elott all, merlegelnie kell, hogy sajat tapasztalatain kivul milyen forrasokra tamaszkodik es azt is, hogy relevans kerdeseket tesz-e fel maganak. Ha ez az antiviralis szer a gyogyszergyar szerint csimpanzokon jol mukodik, akkor beadhatom-e az ebolas betegemnek? Az a bodzaviragos borradir a noklapjabol tenyleg jo az orbancra? Szamit-e a magas koleszterinszint <a href="https://en.wikipedia.org/wiki/Idiopathic_thrombocytopenic_purpura">ITP-nel</a>?
 
