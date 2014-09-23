@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A bizonyitekokon alapulo orvoslasrol par szoban"
-date:   2014-09-02 22:15:00
+date:   2014-09-23 20:11:50
 categories: 'sophia'
 tags: ['orvos','EBM','BAO']
 ---
@@ -21,12 +21,12 @@ Ezt a folyamatot konnyiti meg bizonyitekokon alapulo orvoslas, egy eljaras, mely
 	<li>A bizonyitekok alkalmazasa a felmerult esetben.</li>
 </ul>
 
-Ezekbol a legnehezebb a bizonyitekok felkutatasa es ertekelese. A keresesben segithet a <a href="http://www.ncbi.nlm.nih.gov/pubmed">pubmed</a> es a <a href="http://www.cochrane.org/">cochrane</a>; az ertekelesben pedig az alabbi tablazat[1]:
+Ezekbol a legnehezebb a bizonyitekok felkutatasa es ertekelese. A keresesben segithet a <a href="http://www.ncbi.nlm.nih.gov/pubmed">pubmed</a> es a <a href="http://www.cochrane.org/">cochrane</a>; az ertekelesben pedig az alabbi tablazat[1] (megbizhatosagnal az alacsonyabb ertek jobb):
 
 <table class="pure-table pure-table-horizontal">
     <thead>
         <tr>
-            <th>A bizonyitek megbizhatosaga (az alacsonyabb ertek jobb)</th>
+            <th>A bizonyitek megbizhatosaga</th>
             <th>Leiras</th>
         </tr>
     </thead>
