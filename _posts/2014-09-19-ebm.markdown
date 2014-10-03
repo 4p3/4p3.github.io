@@ -2,7 +2,7 @@
 layout: post
 title:  "A bizonyitekokon alapulo orvoslasrol par szoban"
 date:   2014-09-23 20:11:50
-categories: 'sophia'
+categories: 'ego'
 tags: ['orvos','EBM','BAO']
 ---
 
