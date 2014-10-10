@@ -6,7 +6,7 @@ categories: 'konyv'
 tags: ['zen','koan','gyujtemeny']
 ---
 
-<blockquote>Gee, I didn't understand a word of it but it cheered me up enormously.  - A friend of Alan Watts</blockquote>
+<blockquote>Gee, I didn't understand a word of it but it cheered me up enormously. - /A friend of Alan Watts/</blockquote>
 
 Sokkal nehezebb olvasmany, mint aminek elsore tunik.
 
