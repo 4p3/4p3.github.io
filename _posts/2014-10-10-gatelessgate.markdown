@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Mu-Mon Ekai: The Gateless Gate"
+date:   2014-10-10 13:31:17
+categories: 'konyv'
+tags: ['zen','koan','gyujtemeny']
+---
+
+<blockquote>Gee, I didn't understand a word of it but it cheered me up enormously.  - A friend of Alan Watts</blockquote>
+
+Sokkal nehezebb olvasmany, mint aminek elsore tunik.
+
+<h4>8/10</h4>
