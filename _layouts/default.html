@@ -1,95 +1,51 @@
----
-title: majom blog
----
 <!doctype html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="4p3 omglengesei">
-<meta name="keywords" content="4p3, blog">
-
-    <title>{{ page.title }}</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <script type="text/javascript" src="http://use.typekit.net/ajd7dau.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 {% if paginator.total_pages == 1 %}
-    <link rel="stylesheet" href="css/base-min.css">
-    <!--[if lte IE 8]>
-        <link rel="stylesheet" href="css/blog-old-ie.css">
-    <![endif]-->
-    <!--[if gt IE 8]><!-->
-        <link rel="stylesheet" href="css/blog.css">
-    <!--<![endif]-->
+  <link rel="stylesheet" href="css/standardize.css">
+  <link rel="stylesheet" href="css/index-grid.css">
+  <link rel="stylesheet" href="css/index.css">
 {% else %}
-    <link rel="stylesheet" href="../css/base-min.css">     
-    <!--[if lte IE 8]>
-        <link rel="stylesheet" href="../css/blog-old-ie.css">
-    <![endif]-->
-    <!--[if gt IE 8]><!-->
-        <link rel="stylesheet" href="../css/blog.css">
-    <!--<![endif]-->
+  <link rel="stylesheet" href="../css/standardize.css">
+  <link rel="stylesheet" href="../css/index-grid.css">
+  <link rel="stylesheet" href="../css/index.css">
 {% endif %}
 </head>
-
-<body>
-{% if paginator.total_pages == 1 %}
-    <div class="header">
-        <div class="pure-menu pure-menu-open pure-menu-horizontal">
-            <ul>
-                <li class="pure-menu-selected"><a href="/index.html"><i class="fa fa-lightbulb-o"></i>  blog</a></li>
-                <li><a href="/konyvek.html"><i class="fa fa-book"></i>  konyvek</a></li>
-                <li><a href="/filmek.html"><i class="fa fa-film"></i>  filmek</a></li>
-                <li><a href="/archivum.html"><i class="fa fa-archive"></i>  archivum</a></li>
-                <li><a href="/rolam.html"><i class="fa fa-male"></i>  rolam</a></li>
-            </ul>
-        </div>
+<body class="body page-index clearfix">
+  <div class="header-container clearfix">
+    <div class="header-menu clearfix">
+      <p class="header-menu-item">Blog | Konyvek | Filmek | Jatekok | <a href="rolam.html">Rolam</a></p>
     </div>
-{% else %}
-    <div class="header">
-        <div class="pure-menu pure-menu-open pure-menu-horizontal">
-            <ul>
-                <li class="pure-menu-selected"><a href="../index.html"><i class="fa fa-lightbulb-o"></i>  blog</a></li>
-                <li><a href="../konyvek.html"><i class="fa fa-book"></i>  konyvek</a></li>
-                <li><a href="../filmek.html"><i class="fa fa-film"></i>  filmek</a></li>
-                <li><a href="../archivum.html"><i class="fa fa-archive"></i>  archivum</a></li>
-                <li><a href="../rolam.html"><i class="fa fa-male"></i>  rolam</a></li>
-            </ul>
-        </div>
-    </div>
-{% endif %}
+    <p class="page-title">{{ page.title }}</p>
+  </div>
+  <div class="post-container clearfix">
+    {{ content }}
+  </div>
+  <div class="page-footer clearfix">
+    {% if paginator.total_pages > 1 %}
+      {% if paginator.previous_page %}
+    <div class="paginator-elements"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&lt;&lt; elozo</a>
+      {% else %}
+    <div class="paginator-elements"><a href="#">&lt;&lt; elozo</a>
+      {% endif %}
+      {% if paginator.next_page %}
+      |<a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">kovetkezo &gt;&gt;</a></div>
+      {% else %}
+      |<a href="#">kovetkezo &gt;&gt;</a></div>
+      {% endif %}
+    {% endif %}
+    {% if paginator.total_pages == 1 %}
+    <a href="jog.html" class="copyright-element">Minden jog fenntartva.</a>
+    {% else %}
+    <a href="../jog.html" class="copyright-element">Minden jog fenntartva.</a>
+    {% endif %}
+  </div>
 
-<div id="layout" class="pure-g">
-    <div class="content pure-u-1-24 pure-u-md-5-24"><!-- left sidebar --></div>
-    <div class="content pure-u-1 pure-u-md-14-24">
-        <div class="posts">
-
-            {{ content }}
-
-        </div> <!-- end of posts -->
-        <div class="footer">
-            {% if paginator.total_pages > 1 %}
-            <div>
-                {% if paginator.previous_page %}
-                    <a class="pure-button" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-angle-left"></i> Elozo oldal</a> 
-                {% else %}
-                    <a class="pure-button pure-button-disabled" href="#"><i class="fa fa-angle-left"></i> Elozo oldal</a>
-                {% endif %}
-                {% if paginator.next_page %}
-                    <a class="pure-button" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Kovetkezo oldal <i class="fa fa-angle-right"></i></a>
-                {% else %}
-                    <a class="pure-button pure-button-disabled" href="#">Kovetkezo oldal <i class="fa fa-angle-right"></i></a>
-                {% endif %}
-            </div>
-            {% endif %}
-            <div>
-                {% if paginator.total_pages == 1 %}
-                <a href="/jog.html">Minden jog fenntartva.</a>
-                {% else %}
-                <a href="../jog.html">Minden jog fenntartva.</a>
-                {% endif %}
-            </div>
-        </div>
-
-    </div>
-    <div class="content pure-u-1-24 pure-u-md-5-24"><!-- right sidebar --></div>
-</div>
+  <script src="js/jquery-min.js"></script>
 </body>
 </html>

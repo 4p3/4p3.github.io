@@ -3,28 +3,9 @@ title: 4p3 blog
 layout: default
 ---
 {% for page in paginator.posts %}
-<section class="post">
-    <header class="post-header">
-        <h2 class="post-title"><a href="{{ page.url }}">{{ page.title }}</a></h2>
-        <p class="post-meta">
-        <i class="fa fa-tags"></i> kategoria:
-        {% if page.categories contains 'konyv' %}
-        	<i class="fa fa-book"></i> konyv;
-        {% endif %}
-        {% if page.categories contains 'film' %}
-        	<i class="fa fa-film"></i> film;
-        {% endif %}
-        {% if page.categories contains 'technikum' %}
-        	<i class="fa fa-keyboard-o"></i> technikum
-        {% endif %}
-        {% if page.categories contains 'ego' %}
-        	<i class="fa fa-user"></i> ego;
-        {% endif %}
-         <i class="fa fa-calendar"></i> datum: {{ page.date | %Y-%m-%d }}
-        </p>
-    </header>
-    <div class="post-description">
-    	{{ page.content }}
-    </div>
-</section>
+<div class="post-title">{{ page.title }}</div>
+  <div class="p post-content">
+      <p>{{ page.content }}</p>
+  </div>
+<div class="post-footer">{{ page.date | %Y-%m-%d }} | 4p3 | {% for tag in page.tags %}#{{ tag }}{% endfor %} | {% for category in page.categories %} {{ category }} {% endfor %}</div>
 {% endfor %}
