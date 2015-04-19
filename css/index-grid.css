@@ -1,52 +1,68 @@
 .fluid-span-1 {
-  width: 12.5714285714%;
+  width: 8.8888888889%;
 }
 
 .fluid-span-2 {
-  width: 27.1428571429%;
+  width: 20.2777777778%;
 }
 
 .fluid-span-3 {
-  width: 41.7142857143%;
+  width: 31.6666666667%;
 }
 
 .fluid-span-4 {
-  width: 56.2857142857%;
+  width: 43.0555555556%;
 }
 
 .fluid-span-5 {
-  width: 70.8571428571%;
+  width: 54.4444444444%;
 }
 
 .fluid-span-6 {
-  width: 85.4285714286%;
+  width: 65.8333333333%;
 }
 
 .fluid-span-7 {
+  width: 77.2222222222%;
+}
+
+.fluid-span-8 {
+  width: 88.6111111111%;
+}
+
+.fluid-span-9 {
   width: 100%;
 }
 
 .fluid-offset-1 {
-  margin-left: 14.5714285714%;
+  margin-left: 11.3888888889%;
 }
 
 .fluid-offset-2 {
-  margin-left: 29.1428571429%;
+  margin-left: 22.7777777778%;
 }
 
 .fluid-offset-3 {
-  margin-left: 43.7142857143%;
+  margin-left: 34.1666666667%;
 }
 
 .fluid-offset-4 {
-  margin-left: 58.2857142857%;
+  margin-left: 45.5555555556%;
 }
 
 .fluid-offset-5 {
-  margin-left: 72.8571428571%;
+  margin-left: 56.9444444444%;
 }
 
 .fluid-offset-6 {
-  margin-left: 87.4285714286%;
+  margin-left: 68.3333333333%;
+}
+
+.fluid-offset-7 {
+  margin-left: 79.7222222222%;
+}
+
+.fluid-offset-8 {
+  margin-left: 91.1111111111%;
 }
 

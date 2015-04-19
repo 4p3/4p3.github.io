@@ -1,6 +1,6 @@
 body {
   background-color: rgb(245, 245, 245);
-  font: 400 1.375em/1.4 calluna;
+  font: 400 1.5em/1.38 calluna;
   color: rgb(51, 51, 51);
 }
 
@@ -9,485 +9,105 @@ blockquote p {
   margin-bottom: 1em;
 }
 
-.copyright-element {
-  display: block;
-  width: 58.836678473%;
+.footer-law {
+  width: 100%;
   margin: 0 auto;
-  font-size: 0.727em;
+  font-size: 0.667em;
   font-weight: 400;
   line-height: 1.38;
   text-align: center;
-  color: rgb(77, 77, 77);
+  color: rgb(51, 51, 51);
 }
 
-.header-container {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  z-index: 3;
+.footer-navigation {
   width: 100%;
   margin: 0 auto;
-}
-
-.header-menu {
-  float: left;
-  width: 100%;
-  height: 45px;
-}
-
-.header-menu-item {
-  width: 56.5625%;
-  min-height: 46px;
-  margin: 0 auto;
-  padding: 5px;
-  font: 400 1.182em/1.38 calluna-sans;
+  padding: 15px;
+  font: 400 0.833em/1.38 calluna-sans;
   text-align: center;
+  text-transform: uppercase;
   letter-spacing: 3px;
-  color: rgb(102, 102, 102);
+  word-spacing: 5px;
+  color: rgb(51, 51, 51);
+}
+
+.head-menu-list {
+  width: 80%;
+  margin: 0 auto;
+  font: 1.083em/1.38 calluna-sans;
+  text-align: center;
+  letter-spacing: 1px;
+  word-spacing: 10px;
+  color: rgb(51, 51, 51);
+}
+
+.head-pagetitle {
+  width: 60%;
+  margin: 0 auto;
+  padding: 5px 5px 35px;
+  font: 700 3.583em/1.38 calluna-sans;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  word-spacing: 5px;
+  color: rgb(77, 77, 77);
 }
 
 .page-footer {
-  width: 56.6857142857%;
+  width: 62%;
   margin: 0 auto;
 }
 
-.page-title {
-  width: 56.6857142857%;
-  min-height: 155px;
-  margin: 45px auto 0;
-  padding: 15px;
-  font: 700 3.273em/1.38 calluna-sans;
-  text-align: center;
-  color: rgb(26, 26, 26);
-}
-
-.paginator-elements {
-  width: 58.836678473%;
-  margin: 0 auto;
-  padding: 15px;
-  font: 400 0.727em/1.38 calluna-sans;
-  text-align: center;
-  text-transform: uppercase;
-  color: rgb(77, 77, 77);
-}
-
+.head-menu,
 .post-container {
   width: 100%;
-  margin: 200px auto 0;
-  padding-bottom: 15px;
+  margin: 0 auto;
 }
 
 .post-content {
-  width: 56.7187499999%;
+  width: 62%;
   margin: 0 auto;
-  padding-bottom: 25px;
   font-size: 1em;
   font-weight: 400;
+  line-height: 1.38;
   text-align: justify;
   color: rgb(51, 51, 51);
 }
 
-.post-footer {
-  width: 56.6845703125%;
-  min-height: 51px;
+.post-ending {
+  width: 62%;
   margin: 0 auto;
-  padding: 5px;
-  font: 400 0.727em/1.38 calluna-sans;
+  border-bottom: 1px solid rgb(128, 128, 128);
+  background-color: rgb(222, 222, 222);
+}
+
+.post-footer {
+  width: 62%;
+  margin: 0 auto;
+  padding-bottom: 6px;
+  font: 400 0.667em/1.38 calluna-sans;
   text-align: center;
   text-transform: uppercase;
+  word-spacing: 1px;
   color: rgb(51, 51, 51);
 }
 
 .post-title {
-  width: 56.6857142857%;
-  margin: 0 auto;
-  padding-top: 25px;
-  padding-bottom: 15px;
-  font: 400 1.636em/1.38 calluna-sans;
-  text-align: center;
-  letter-spacing: 1px;
-  word-spacing: 3px;
-  color: rgb(51, 51, 51);
-}
-
-.strong-and-em {
-  width: 56.6833496093%;
-  min-height: 107px;
+  width: 62%;
   margin: 0 auto;
   padding: 15px;
-  font-size: 1em;
-  font-weight: 400;
-  text-align: justify;
+  font: 700 2em/1.38 calluna-sans;
+  text-align: center;
   color: rgb(51, 51, 51);
 }
 
-._text {
+blockquote {
   margin: 0 auto;
-  line-height: 1.38;
-}
-
-.post-container ._text-1 {
-  width: 21.7308035714%;
-  min-height: 53px;
-  font-family: calluna-sans;
-  font-size: 2em;
-  font-weight: 700;
-  letter-spacing: 1px;
-  word-spacing: 2px;
-  color: rgb(51, 51, 51);
-}
-
-.post-container ._text-2 {
-  width: 21.7297363281%;
-  min-height: 53px;
-  font-family: calluna-sans;
-  font-size: 1.727em;
-  font-weight: 700;
-  letter-spacing: 1px;
-  color: rgb(51, 51, 51);
-}
-
-.post-container ._text-3 {
-  width: 21.7297363281%;
-  min-height: 53px;
-  font-family: calluna-sans;
-  font-size: 1.455em;
-  font-weight: 400;
-  color: rgb(51, 51, 51);
-}
-
-.post-container ._text-4 {
-  width: 21.7297363281%;
-  min-height: 53px;
-  font-family: calluna-sans;
-  font-size: 1.273em;
-  font-weight: 400;
-  color: rgb(51, 51, 51);
-}
-
-.post-container ._text-5 {
-  width: 21.7297363281%;
-  min-height: 53px;
-  font-family: calluna-sans;
-  font-size: 1.091em;
-  font-weight: 400;
-  text-transform: uppercase;
-  color: rgb(51, 51, 51);
-}
-
-.post-container ._text-6 {
-  width: 21.7297363281%;
-  min-height: 53px;
-  font-family: calluna-sans;
-  font-size: 1em;
-  font-weight: 400;
-  text-transform: uppercase;
-  color: rgb(51, 51, 51);
-}
-
-.post-container ._text-7 {
-  width: 56.7187499999%;
-  min-height: 135px;
   padding-left: 25px;
   border-left: 2px solid rgb(102, 102, 102);
   border-radius: 5px;
-  font-size: 1em;
+  font-size: 1.083em;
   font-weight: 400;
+  line-height: 1.38;
   color: rgb(102, 102, 102);
-}
-
-.strong-and-em em {
-  border-top-width: 0;
-  border-right-width: 0;
-  border-bottom-width: 0;
-  border-left-width: 0;
-  border-color: transparent;
-  border-style: none;
-  border-top-left-radius: 0;
-  border-top-right-radius: 0;
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
-  background-color: transparent;
-  font-family: inherit;
-  font-style: italic;
-  font-size: inherit;
-  font-weight: inherit;
-  text-transform: inherit;
-  text-decoration: inherit;
-  letter-spacing: inherit;
-  word-spacing: inherit;
-  color: inherit;
-  opacity: 1;
-  word-break: normal;
-  word-wrap: normal;
-  white-space: normal;
-}
-
-.header-menu-item a,
-.header-menu-item em,
-.post-content strong,
-.strong-and-em span {
-  border-top-width: 0;
-  border-right-width: 0;
-  border-bottom-width: 0;
-  border-left-width: 0;
-  border-color: transparent;
-  border-style: none;
-  border-top-left-radius: 0;
-  border-top-right-radius: 0;
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
-  background-color: transparent;
-  font-family: inherit;
-  font-style: inherit;
-  font-size: inherit;
-  font-weight: inherit;
-  text-transform: inherit;
-  text-decoration: inherit;
-  letter-spacing: inherit;
-  word-spacing: inherit;
-  color: inherit;
-  opacity: 1;
-  word-break: normal;
-  word-wrap: normal;
-  white-space: normal;
-}
-
-.strong-and-em strong {
-  border-top-width: 0;
-  border-right-width: 0;
-  border-bottom-width: 0;
-  border-left-width: 0;
-  border-color: transparent;
-  border-style: none;
-  border-top-left-radius: 0;
-  border-top-right-radius: 0;
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
-  background-color: transparent;
-  font-family: inherit;
-  font-style: inherit;
-  font-size: inherit;
-  font-weight: 700;
-  text-transform: inherit;
-  text-decoration: inherit;
-  letter-spacing: inherit;
-  word-spacing: inherit;
-  color: inherit;
-  opacity: 1;
-  word-break: normal;
-  word-wrap: normal;
-  white-space: normal;
-}
-
-@media(max-width: 1024px) {
-  .header-container {
-    left: 0;
-    right: 0;
-    margin-right: auto;
-    margin-left: auto;
-  }
-
-  .header-container .page-title {
-    width: 56.640625%;
-    padding-left: 10px;
-  }
-
-  .page-footer {
-    width: 79.8177083333%;
-  }
-
-  .post-container .post-content,
-  .post-container .post-footer {
-    width: 60%;
-  }
-
-  .post-container .post-title {
-    width: 80%;
-  }
-
-  .post-container .strong-and-em {
-    float: left;
-    clear: both;
-    width: 60%;
-    margin-right: 0;
-    margin-left: 19.92188%;
-  }
-
-  .post-container ._text {
-    width: 60%;
-  }
-
-  .post-container ._text-7 {
-    float: left;
-    clear: both;
-    margin-right: 0;
-    margin-left: 19.96918%;
-  }
-}
-
-@media(max-width: 768px) {
-  body {
-    font-size: 1.375em;
-  }
-
-  .header-container {
-    left: 0;
-    right: 0;
-    margin-right: auto;
-    margin-left: auto;
-  }
-
-  .header-container .header-menu {
-    height: auto;
-  }
-
-  .header-container .page-title {
-    margin-top: 80px;
-    padding-top: 10px;
-    padding-right: 10px;
-    padding-bottom: 10px;
-  }
-
-  .page-footer {
-    float: left;
-    clear: both;
-    margin-right: 0;
-    margin-left: 9.99756%;
-  }
-
-  .post-container {
-    float: left;
-    margin-top: 235px;
-    margin-right: 0;
-    margin-left: 0;
-  }
-
-  .post-container .post-content {
-    width: 79.9479166666%;
-  }
-
-  .post-container .post-footer {
-    width: 80.078125%;
-  }
-
-  .post-container .strong-and-em {
-    float: none;
-    clear: none;
-    width: 80%;
-    margin-right: auto;
-    margin-left: auto;
-  }
-
-  .post-container ._text {
-    width: 80%;
-  }
-
-  .post-container ._text-1 {
-    margin-top: 14px;
-  }
-
-  .post-container ._text-3,
-  .post-container ._text-5 {
-    margin-top: 3px;
-  }
-
-  .post-container ._text-2,
-  .post-container ._text-4,
-  .post-container ._text-6 {
-    margin-top: 4px;
-  }
-
-  .post-container ._text-7 {
-    float: none;
-    clear: none;
-    margin-right: auto;
-    margin-left: auto;
-  }
-}
-
-@media(max-width: 568px) {
-  .header-container {
-    left: 0;
-    right: 0;
-    margin-right: auto;
-    margin-left: auto;
-  }
-
-  .header-container .page-title {
-    float: left;
-    clear: both;
-    margin-top: 0;
-    margin-right: 0;
-    margin-left: 21.65493%;
-  }
-
-  .page-footer {
-    width: 100%;
-    margin-left: 0;
-  }
-
-  .page-footer .paginator-elements {
-    width: 79.9295774647%;
-  }
-
-  .post-container {
-    margin-top: 270px;
-  }
-
-  .post-container .post-content {
-    width: 95%;
-    margin-top: 89px;
-  }
-
-  .post-container .post-footer {
-    width: 102.9929577464%;
-  }
-
-  .post-container .post-title {
-    float: left;
-    width: 100%;
-    margin-right: 0;
-    margin-left: 0;
-  }
-
-  .post-container .strong-and-em {
-    margin-top: 25px;
-  }
-
-  .post-container ._text-1,
-  .post-container ._text-2,
-  .post-container ._text-3,
-  .post-container ._text-4,
-  .post-container ._text-5,
-  .post-container ._text-6 {
-    margin-top: 0;
-  }
-}
-
-@media(max-width: 480px) {
-  body {
-    font-size: 1.375em;
-  }
-
-  .header-container {
-    left: 0;
-    right: 0;
-    margin-right: auto;
-    margin-left: auto;
-  }
-
-  .header-container .header-menu {
-    float: none;
-    margin-right: auto;
-    margin-left: auto;
-  }
-
-  .header-container .page-title {
-    width: 100.8333333333%;
-    margin-left: 0;
-    padding-left: 0;
-    font-size: 3.091em;
-  }
 }

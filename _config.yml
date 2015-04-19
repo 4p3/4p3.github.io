@@ -5,7 +5,6 @@ author: 4p3
 markdown: redcarpet
 pygments: true
 paginate: 7
-rss_post_limit: 7
 paginate_path: "oldal:num"
 gems:
   - jekyll-sitemap
