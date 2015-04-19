@@ -8,7 +8,7 @@ tags: ['tragedia','drama','szurrealis']
 
 Tobben ajanlottak. Ami furcsa volt ezekben az ajanlasokban, hogy mindenki pont ugyanugy irta le:
 
-<blockquote>Szurrealis, elgondolkodtato, de osszessegeben nagyon szep. Ha a tortenet nem is, de a latvanyvilag le fog nyugozni.</blockquote>
+<blockquote><p>Szurrealis, elgondolkodtato, de osszessegeben nagyon szep. Ha a tortenet nem is, de a latvanyvilag le fog nyugozni.</p></blockquote>
 
 Ehhez nem is akarok hozzatenni semmit sem. Igy van.
 

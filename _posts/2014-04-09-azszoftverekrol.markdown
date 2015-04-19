@@ -8,7 +8,7 @@ tags: ['sultum','rant']
 
 Europai ertelemben vett kulturember nem vitatja masok szemelyes preferenciajat. Egy <del>muveltebb</del> sznobabb illeto valahogy igy mondana:
 
-<blockquote>De gustibus non est disputandum.</blockquote>
+<blockquote><p>De gustibus non est disputandum.<p></blockquote>
 
 Viszont nem akarok - nem tudok - szo nelkul elmenni a most eleg nagy port kavart <a href="http://heartbleed.com">heartbleed</a> mellett. Ha lemaradtal volna rola, akkor <a href="http://www.reddit.com/r/programming/comments/22ghj1/the_heartbleed_bug/cgmxdc6">itt</a> egy gyors osszefoglalo:
 <ul>
@@ -17,7 +17,7 @@ Viszont nem akarok - nem tudok - szo nelkul elmenni a most eleg nagy port kavart
 </ul>
 Szinleljunk meglepodest. Mintha a <a href="https://lists.debian.org/debian-security-announce/2008/msg00152.html">debianos openssl fiasco</a> meg sem tortent volna. Mintha a manyeyeballs-nak lenne barmilyen biztonsagtechnikai jelentese. Mintha nem kerulnenek elo <a href="http://www.theregister.co.uk/2014/01/09/x11_has_privilege_escalation_bug/">evtizedes bugok</a>, ha egy nyilt forrasu projecttel elkezd egy nem teljesen dilettans foglalkozni.
 
-<blockquote>Ha te most állandóan kólát innál, akkor azt mondanám neked, hogy igyál Traubit. Mert ha Traubit iszol, ugyanazt a cukros löttyöt csurgatod a beleidbe, mint a többiek. De azáltal, hogy ők kóláznak, te meg traubizol, különbözöl a többiektől.</blockquote>
+<blockquote><p>Ha te most állandóan kólát innál, akkor azt mondanám neked, hogy igyál Traubit. Mert ha Traubit iszol, ugyanazt a cukros löttyöt csurgatod a beleidbe, mint a többiek. De azáltal, hogy ők kóláznak, te meg traubizol, különbözöl a többiektől.</p></blockquote>
 
 Nyilt forrasu oprendszert mindig is eleterzes volt hasznalni. Egy elit kozosseg tagja lehetsz. Szabadnak erzed magad - ugy szabod az igenyeidhez a desktopod, ahogy akarod. Tobb delutant is eltolthetsz a bongeszodhoz a megfelelo tema kivalasztasaval. Vegeredmenyul kapsz egy nagyon szexi, nagyon kezreallo, nagyon egyedi rendszert. Hogy mennyi idot oltel bele? Kit erdekel? Az eredmeny a fontos.
 
