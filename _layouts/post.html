@@ -16,7 +16,6 @@
     <p class="head-pagetitle">{{ page.title }}</p>
   </div>
   <div class="post-container clearfix">
-        <div class="post-title">{{ page.title }}</div>
     <div class="post-content">
     {{ content }}
     <div class="post-footer">4p3 | {{ page.date | date: "%-d %B %Y" }} | {% for tag in page.tags %}#{{ tag }}, {% endfor %} | {% for category in page.categories %} @{{ category }} {% endfor %}</div>
