@@ -10,12 +10,12 @@
   <link rel="stylesheet" href="css/standardize.css">
   <link rel="stylesheet" href="css/index-grid.css">
   <link rel="stylesheet" href="css/index.css">
-  <script type="text/javascript" src="js/smart-underline.js">window.onload = SmartUnderline.init({location: ''})</script>
+  <script type="text/javascript" src="js/smart-underline.js"></script>
 {% else %}
   <link rel="stylesheet" href="../css/standardize.css">
   <link rel="stylesheet" href="../css/index-grid.css">
   <link rel="stylesheet" href="../css/index.css">
-  <script type="text/javascript" src="../js/smart-underline.js">window.onload = SmartUnderline.init({location: ''})</script>
+  <script type="text/javascript" src="../js/smart-underline.js"></script>
 {% endif %}
 </head>
 <body class="body page-index clearfix">
@@ -50,4 +50,9 @@
     {% endif %}
   </div>
 </body>
+<script>
+window.onload=SmartUnderline.init({
+  location: ''
+});
+</script>
 </html>
