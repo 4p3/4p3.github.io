@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <script type="text/javascript" src="http://use.typekit.net/ajd7dau.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  <link rel="stylesheet" href="../../../../css/standardize.css">
+  <link rel="stylesheet" href="../../../../css/index-grid.css">
+  <link rel="stylesheet" href="../../../../css/index.css">
+</head>
+<body class="body page-index clearfix">
+  <div class="head-menu clearfix">
+    <p id="head-menu" class="head-menu-list"><a href="/index.html">Blog</a> | <a href="/konyvek.html">Konyvek</a> | <a href="/filmek.html">Filmek</a> | <a href="/jatekok.html">Jatekok</a> | <a href="/rolam.html">Rolam</a></p>
+    <p class="head-pagetitle">{{ page.title }}</p>
+  </div>
+  <div class="post-container clearfix">
+        <div class="post-title">{{ page.title }}</div>
+    <div class="post-content">
+    {{ content }}
+    <div class="post-footer">4p3 | {{ page.date | date: "%-d %B %Y" }} | {% for tag in page.tags %}#{{ tag }}, {% endfor %} | {% for category in page.categories %} @{{ category }} {% endfor %}</div>
+    <div class="post-ending"></div>
+  </div>
+  <div id="page-footer" class="page-footer clearfix">
+    <div class="footer-law"><a href="/jog.html">Minden jog fenntartva.</a></div>
+  </div>
+</body>
+</html>
