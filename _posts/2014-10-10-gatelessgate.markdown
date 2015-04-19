@@ -6,7 +6,7 @@ categories: 'konyv'
 tags: ['zen','koan','gyujtemeny']
 ---
 
-<blockquote>Gee, I didn't understand a word of it but it cheered me up enormously. - /A friend of Alan Watts/</blockquote>
+<blockquote><p>Gee, I didn't understand a word of it but it cheered me up enormously.</p> <p>- /A friend of Alan Watts/</p></blockquote>
 
 Sokkal nehezebb olvasmany, mint aminek elsore tunik. Online <a href="http://www.sacred-texts.com/bud/zen/mumonkan.htm">itt</a> olvashato.
 
