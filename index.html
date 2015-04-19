@@ -7,6 +7,6 @@ layout: default
     <div class="post-content">
       {{ page.content }}
     </div>
-    <div class="post-footer">4p3 | {{ page.date | date: "%-d %B %Y" }} | {% for tag in page.tags %}#{{ tag }}, {% endfor %} | {% for category in page.categories %} @{{ category }} {% endfor %}</div>
+    <div class="post-footer">4p3 | {{ page.date | date: "%-d %B %Y" }} | {% for tag in page.tags %}#{{ tag }} {% endfor %} | {% for category in page.categories %} @{{ category }} {% endfor %}</div>
     <div class="post-ending"></div>
 {% endfor %}
