@@ -115,3 +115,104 @@ blockquote {
   line-height: 1.38;
   color: rgb(102, 102, 102);
 }
+
+@media(max-width: 1024px) {
+  .head-menu .head-menu-list {
+    width: 90%;
+  }
+
+  .head-menu .head-pagetitle {
+    width: 90%;
+    font-size: 2.583em;
+  }
+
+  .page-footer,
+  .post-container .blockquote,
+  .post-container .post-content,
+  .post-container .post-ending,
+  .post-container .post-footer,
+  .post-container .post-title {
+    width: 80%;
+  }
+}
+
+@media(max-width: 768px) {
+  body {
+    font-size: 1.5em;
+  }
+
+  .page-footer,
+  .post-container .blockquote,
+  .post-container .post-content {
+    width: 90%;
+  }
+}
+
+@media(max-width: 640px) {
+  .head-menu .head-menu-list,
+  .head-menu .head-pagetitle,
+  .post-container .post-footer,
+  .post-container .post-title {
+    width: 100%;
+  }
+}
+
+@media(max-width: 480px) {
+  body {
+    font-size: 1.5em;
+  }
+
+  .head-menu .head-menu-list {
+    font-size: 0.75em;
+  }
+
+  .page-footer,
+  .post-container .blockquote,
+  .post-container .post-content {
+    width: 100%;
+  }
+
+  .post-container .post-ending {
+    width: 90%;
+  }
+
+  .post-container .post-footer {
+    font-size: 0.5em;
+  }
+}
+
+@media(max-width: 320px) {
+  body {
+    font-size: 1.375em;
+  }
+
+  .head-menu .head-menu-list {
+    font-size: 0.818em;
+  }
+
+  .head-menu .head-pagetitle {
+    font-size: 1.909em;
+  }
+
+  .page-footer .footer-law,
+  .page-footer .footer-navigation {
+    font-size: 0.727em;
+  }
+
+  .post-container .post-content {
+    font-size: 22px;
+  }
+
+  .post-container .post-footer {
+    font-size: 0.545em;
+  }
+
+  .post-container .post-title {
+    font-size: 1.818em;
+  }
+
+  .post-container .blockquote {
+    padding-left: 10px;
+    font-size: 1.091em;
+  }
+}
