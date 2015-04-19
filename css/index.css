@@ -1,4 +1,4 @@
-a {
+a:post-content {
   color:rgb(51, 51, 51);
   text-decoration: underline;
 }
