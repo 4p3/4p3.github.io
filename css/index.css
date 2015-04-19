@@ -1,5 +1,8 @@
-a.post-content, a.head-menu-list {
+a {
   color:rgb(51, 51, 51);
+}
+
+.head-menu-list a, .post-content a {
   text-decoration: underline;
 }
 
