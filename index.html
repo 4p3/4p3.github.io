@@ -3,7 +3,7 @@ title: 4p3 blog
 layout: default
 ---
 {% for page in paginator.posts %}
-    <div class="post-title"><a href="{{ page.url }}">Eleifend option congue nihil</a></div>
+    <div class="post-title"><a href="{{ page.url }}">{{ page.title }}</a></div>
     <div class="post-content">
       {{ page.content }}
     </div>
