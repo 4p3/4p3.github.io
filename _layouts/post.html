@@ -23,11 +23,11 @@
     {{ content }}
     <div class="post-footer">4p3 | {{ page.date | date: "%-d %B %Y" }} | {% for tag in page.tags %}#{{ tag }} {% endfor %} | {% for category in page.categories %} @{{ category }} {% endfor %}</div>
     <div class="post-ending"></div>
+    {% include comments.html %}
   </div>
   </div>
   <div id="page-footer" class="page-footer clearfix">
     <div class="footer-law"><a href="/jog.html">Minden jog fenntartva.</a></div>
   </div>
-  {% include comments.html %}
 </body>
 </html>
