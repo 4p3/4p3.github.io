@@ -85,7 +85,7 @@ blockquote p {
 .post-ending {
   width: 62%;
   margin: 0 auto;
-  border-bottom: 1px solid rgb(128, 128, 128);
+  border-top: 1px solid rgb(128, 128, 128);
   padding-bottom: 2em;
 }
 
