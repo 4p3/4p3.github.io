@@ -4,6 +4,7 @@ title:  "Gone Girl (2014)"
 date:   2014-12-17 23:30:00
 categories: 'film'
 tags: ['thriller','drama']
+comments: True
 ---
 
 Mint valaki, aki par hete jegyzett el egy intelligens, gyonyoru, kedves, figyelmes lányt, csak keresem a szavakat. Wow.
