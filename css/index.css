@@ -86,7 +86,7 @@ blockquote p {
   width: 62%;
   margin: 0 auto;
   border-top: 1px solid rgb(128, 128, 128);
-  padding-bottom: 2em;
+  padding-bottom: 36px;
 }
 
 .post-footer {
