@@ -8,7 +8,7 @@ tags: ['sultum','rant']
 
 Europai ertelemben vett kulturember nem vitatja masok szemelyes preferenciajat. Egy <del>muveltebb</del> sznobabb illeto valahogy igy mondana:
 
-<blockquote><p>De gustibus non est disputandum.<p></blockquote>
+<blockquote><p>De gustibus non est disputandum.</p></blockquote>
 
 Viszont nem akarok - nem tudok - szo nelkul elmenni a most eleg nagy port kavart <a href="http://heartbleed.com">heartbleed</a> mellett. Ha lemaradtal volna rola, akkor <a href="http://www.reddit.com/r/programming/comments/22ghj1/the_heartbleed_bug/cgmxdc6">itt</a> egy gyors osszefoglalo:
 <ul>
