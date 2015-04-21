@@ -6,7 +6,7 @@ categories: 'penzugy'
 tags: ['sultum', 'doge']
 ---
 
-December vege fele lettem figyelmes <a href="http://www.reddit.com/r/dogecoin">erre</a> a rendhagyo, enyhen vicces crypto-valutara. Majdnem sikerult ignoralni, de belem hasitott a par <i class="fa fa-btc"></i> erme egyenlegu tarcam felelotlen letorlesenek (ugyse' lesz ebbol semmi) emleke.
+December vege fele lettem figyelmes <a href="http://www.reddit.com/r/dogecoin">erre</a> a rendhagyo, enyhen vicces crypto-valutara. Majdnem sikerult ignoralni, de belem hasitott a par bitcoin egyenlegu tarcam felelotlen letorlesenek (ugyse' lesz ebbol semmi) emleke.
 
 Legyunk <a href="https://en.wikipedia.org/wiki/Early_adopter">early adopterek</a>, gondoltam. Egy het alatt kibanyasztam egy kisebb halmot, majd mint aki jol vegezte dolgat kimentettem a tarcat ket nem hasznalt pendrive-ra. Majd par ev mulva visszanezek, gondoltam, hisz viccnek sem utolso, ha nem jonne be.
 
