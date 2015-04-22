@@ -17,7 +17,7 @@ notifications:
       - "chat.freenode.net#4p3"
     template:
       - "%{repository} (%{commit}) : %{message} %{foo} "
-      - "Build details: %{build_url} Build duration: %{duration} Result: %{result}"
+      - "Build details: %{build_url} Build duration: %{duration} Result: %{result} _4p3 _4pe"
     on_success: always
     on_failure: always
     use_notice: false
