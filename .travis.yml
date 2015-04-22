@@ -5,9 +5,7 @@ script: bundle exec jekyll build && htmlproof ./_site
 
 branches:
   only:
-  - gh-pages     
-  - /pages-(.*)/ 
-
+  - master
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
