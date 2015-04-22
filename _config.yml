@@ -3,7 +3,6 @@ url: http://4p3.github.io
 description: "Omlengesek elvont dolgokrol, a vilagrol, meg minden szarrol."
 author: 4p3
 markdown: redcarpet
-highlighter: true
 paginate: 7
 paginate_path: "oldal:num"
 exclude: [vendor]
