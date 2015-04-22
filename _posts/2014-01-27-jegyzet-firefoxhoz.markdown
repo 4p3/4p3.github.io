@@ -35,7 +35,7 @@ Attol fuggoen, hogy akarok-e honapokig kattintgatnti, es finomitani a whiteliste
         </tr>
 
         <tr>
-            <td><a href="https://www.eff.org/https-everywhere">https-Everywhere</a><br>
+            <td>https-Everywhere<br>
                 Https-re valt, ahol csak tud.</td>
         </tr>
 
