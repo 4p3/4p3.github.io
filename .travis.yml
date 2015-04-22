@@ -2,13 +2,19 @@ language: ruby
 rvm:
 - 2.1
 script: bundle exec jekyll build && htmlproof ./_site
+
 branches:
   only:
   - master
+
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+
 notifications:
   irc:
     channels:
-      - "irc.freenode.org#4p3"
+      - "chat.freenode.net#4p3"
+    template:
+      - "%{repository} (%{commit}) : %{message} %{foo} "
+      - "Build details: %{build_url} Build duration: %{duration} Result: %{result}"
