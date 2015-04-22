@@ -36,12 +36,12 @@
   {% if paginator.previous_page %}
     <div class="footer-navigation"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&lt;&lt; elozo</a>
   {% else %}
-    <div class="footer-navigation"><a href="#">&lt;&lt; elozo</a>
+    <div class="footer-navigation"><a>&lt;&lt; elozo</a>
   {% endif %}
   {% if paginator.next_page %}
      | <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">kovetkezo &gt;&gt;</a></div>
   {% else %}
-     | <a href="#">kovetkezo &gt;&gt;</a></div>
+     | <a>kovetkezo &gt;&gt;</a></div>
   {% endif %}
 {% endif %}
     {% if paginator.total_pages == 1 %}

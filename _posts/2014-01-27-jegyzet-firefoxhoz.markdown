@@ -56,7 +56,7 @@ Attol fuggoen, hogy akarok-e honapokig kattintgatnti, es finomitani a whiteliste
 
         <tr>
             <td><a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/">Greasemonkey</a><br>
-                <a href="https://4chan-x.just-believe.in/builds/4chan-X.user.js">4chanX</a>-hez es <a href="http://userscripts.org/scripts/show/114002">Youtube Center</a>-hez kell.</td>
+                <a>4chanX</a>-hez es <a>Youtube Center</a>-hez kell.</td>
         </tr>
 
         <tr>
