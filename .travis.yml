@@ -14,10 +14,10 @@ env:
 notifications:
   irc:
     channels:
-      - "chat.freenode.net#4p3"
+      - "chat.freenode.net#travisbuildmsg"
     template:
-      - "%{repository} (%{commit}) : %{message} %{foo} "
-      - "Build details: %{build_url} Build duration: %{duration} Result: %{result} _4p3 _4pe"
+      - "_4p3 / _4pe / _ape: %{repository} (%{commit}) : %{message} %{foo} "
+      - "Build details: %{build_url} Build duration: %{duration} Result: %{result}"
     on_success: always
     on_failure: always
     use_notice: false
