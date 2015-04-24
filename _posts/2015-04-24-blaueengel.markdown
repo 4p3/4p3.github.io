@@ -7,6 +7,6 @@ tags: ['tragikomedia','drama','zene']
 ---
 
 <p>Marlene Dietrich ezzel a szerepevel futtott be, es ez volt az elso (jelentosebb) hangos nemet film is, de en azt mondanam, hogy a szineszi jatek miatt erdemes megnezni. Nem gondoltam volna, hogy egyszer dicseroleg igy irok valamirol, de vegig olyan erzes kisert, mintha szinhazi eloadast neznek.</p>
-<p>A plot eleg egyszeru s engem a zenes betetek sem nyugoztek le, de a korrajzi es a szineszi eloadas miatt boven meger egy egyszernezest.</p>
+<p>A plot eleg egyszeru s engem a zenes betetek sem nyugoztek le, de a korrajz es a szineszi eloadas miatt boven meger egy egyszernezest.</p>
 
 <h4>7/10</h4>
