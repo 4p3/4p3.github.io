@@ -6,7 +6,7 @@ categories: 'film'
 tags: ['akcio','hacker']
 ---
 
-<p>Kellemes laza, uditoen kiszamithato. A <a href="https://hu.wikipedia.org/wiki/Hacktion">hacktion</a> hangulatat hozza, talan egy kicsit tobb akcioval.</p>
+<p>Kellemesen laza, uditoen kiszamithato. A <a href="https://hu.wikipedia.org/wiki/Hacktion">hacktion</a> hangulatat hozza, talan egy kicsit tobb akcioval.</p>
 <p>Az Unsere Mütter, unsere Väter es az Oh boy utan ismeros Tom Schilling jatssza (egesz jol) a foszerepet. Annyit spoilereznek talan, hogy a vegen van egy twist.</p>
 
 <h4>6/10</h4>
