@@ -7,6 +7,6 @@ tags: ['arma', 'szimulacio', 'bohemia']
 ---
 
 <p>Ehrlich gesagt bin ich kein großer Simulationspielfan, doch ich hab viele angenehme Stunden mit Cold War Assault verbracht. Die Steuerung war zwar nicht wirklich einfach, aber das Spiel fühlte sich realistisch an und hatte nur ein paar Bugs. Hingegen der zweite Teil war eine riesige Enttäuschung, man könnte sagen ein dick in a box: die Packung war sehr hübsch, aber unter der Oberfläche war nicht was man erwartet hat (Bugs, Bummeligkeit, zufallsartige Freezes).</p>
-<p>ARMA 3 zum Glück ähnelt Cold War Assault mehr als ARMA2: weniger Bugs, mehr Action. Es gibt leider keine Coop Capmaign (wegen des Krieges mit den Bugs) und das Multiplayer Erlebnis kann abhängig vom Server sehr verschieden sein.</p>
+<p>ARMA 3 zum Glück ähnelt Cold War Assault mehr als ARMA2: weniger Bugs, mehr Action. Es gibt leider keine Coop Campaign (wegen des Krieges mit den Bugs) und das Multiplayer Erlebnis kann abhängig vom Server sehr verschieden sein.</p>
 <p>(Vielen Dank Kalotti :) )</p>
 <h4>8/10</h4>
