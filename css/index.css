@@ -4,6 +4,10 @@ body {
   color: rgb(184, 184, 184);
 }
 
+a {
+  color: rgb(224, 224, 224);
+}
+
 /*MENU*/
 .menu-container {
   position: fixed;
