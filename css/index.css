@@ -52,10 +52,6 @@ body {
   white-space: normal;
 }
 
-.menu-content a:hover {
-  background-color: rgb(24, 24, 24);
-}
-
 /*TITLE*/
 .titel-container {
   position: relative;
@@ -146,14 +142,6 @@ body {
   margin-bottom: 1em;
 }
 
-.post-content a {
-  color: rgb(224, 224, 224);
-}
-
-.post-content a:hover {
-  background-color: rgb(24, 24, 24);
-}
-
 .post-footer {
   float: left;
   clear: both;
@@ -221,6 +209,14 @@ body {
 .nav-forward {
   float: right;
   margin-right: 10.0913799999%;
+}
+
+.post-content a, .footer-container a{
+  color: rgb(224, 224, 224);
+}
+
+.post-content a:hover, .footer-container a:hover, .menu-content a:hover {
+  background-color: rgb(24, 24, 24);
 }
 
 blockquote {
