@@ -4,14 +4,6 @@ body {
   color: rgb(184, 184, 184);
 }
 
-a {
-  color: rgb(224, 224, 224);
-}
-
-a:hover {
-  background-color: rgb(24, 24, 24);
-}
-
 /*MENU*/
 .menu-container {
   position: fixed;
@@ -152,6 +144,14 @@ a:hover {
 
 .post-content p {
   margin-bottom: 1em;
+}
+
+.post-content a {
+  color: rgb(224, 224, 224);
+}
+
+.post-content a:hover {
+  background-color: rgb(24, 24, 24);
 }
 
 .post-footer {

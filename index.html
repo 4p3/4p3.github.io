@@ -3,13 +3,13 @@ title: majom blog
 layout: default
 description: "Omlengesek elvont dolgokrol, a vilagrol, meg minden szarrol."
 ---
-{% for page in paginator.posts %}
+{% for post in paginator.posts %}
     <div class="post-container clearfix">
-      <p class="post-titel">{{ page.title }}</p>
+      <p class="post-titel">{{ post.title }}</p>
       <div class="post-content">
-        {{ page.content }}
+        {{ post.content }}
       </div>
-      <p class="post-footer">{{ page.date | date: "%-d %B %Y" }} / {% for tag in page.tags %}#{{ tag }} {% endfor %} / {% for category in page.categories %} @{{ category }} {% endfor %}</p>
+      <p class="post-footer">{{ post.date | date: "%-d %B %Y" }} / {% for tag in post.tags %}#{{ tag }} {% endfor %} / {% for category in post.categories %} @{{ category }} {% endfor %}</p>
       <div class="post-end"></div>
     </div>
 {% endfor %}
