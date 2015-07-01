@@ -10,45 +10,56 @@
   <link rel="stylesheet" href="css/standardize.css">
   <link rel="stylesheet" href="css/index-grid.css">
   <link rel="stylesheet" href="css/index.css">
-  <script type="text/javascript" src="js/smart-underline.js"></script>
 {% else %}
   <link rel="stylesheet" href="../css/standardize.css">
   <link rel="stylesheet" href="../css/index-grid.css">
   <link rel="stylesheet" href="../css/index.css">
-  <script type="text/javascript" src="../js/smart-underline.js"></script>
 {% endif %}
-<script>window.onload=SmartUnderline.init({ location: ''});</script>
 </head>
 <body class="body page-index clearfix">
-  <div class="head-menu clearfix">
+  <div class="menu-container clearfix">
   {% if paginator.total_pages == 1 %}
-    <p id="head-menu" class="head-menu-list"><a href="/index.html">Blog</a> | <a href="/konyvek.html">Konyvek</a> | <a href="/filmek.html">Filmek</a> | <a href="/jatekok.html">Jatekok</a> | <a href="/rolam.html">Rolam</a></p>
+    <p class="menu-content"><a href="/index.html">/blog&nbsp;</a><br></p>
+    <p class="menu-content"><a href="/konyvek.html">/konyvek&nbsp;</a><br></p>
+    <p class="menu-content"><a href="/filmek.html">/filmek&nbsp;</a><br></p>
+    <p class="menu-content"><a href="/jatekok.html">/jatekok&nbsp;</a><br></p>
+    <p class="menu-content"><a href="/archivum.html">/archivum&nbsp;</a><br></p>
+    <p class="menu-content"><a href="/rolam.html">/rolam&nbsp;</a><br></p>
   {% else %}
-    <p id="head-menu" class="head-menu-list"><a href="../index.html">Blog</a> | <a href="../konyvek.html">Konyvek</a> | <a href="../filmek.html">Filmek</a> | <a href="../jatekok.html">Jatekok</a> | <a href="../rolam.html">Rolam</a></p>
+    <p class="menu-content"><a href="../index.html">/blog&nbsp;</a><br></p>
+    <p class="menu-content"><a href="../konyvek.html">/konyvek&nbsp;</a><br></p>
+    <p class="menu-content"><a href="../filmek.html">/filmek&nbsp;</a><br></p>
+    <p class="menu-content"><a href="../jatekok.html">/jatekok&nbsp;</a><br></p>
+    <p class="menu-content"><a href="../archivum.html">/archivum&nbsp;</a><br></p>
+    <p class="menu-content"><a href="../rolam.html">/rolam&nbsp;</a><br></p>
   {% endif %}
-    <p class="head-pagetitle">{{ page.title }}</p>
   </div>
-  <div class="post-container clearfix">
+  <div class="titel-container clearfix">
+    <p class="site-name">{{ site.name }}//</p>
+    <p class="page-titel">{{ page.title }}</p>
+    <p class="page-description">/{{ page.description }}</p>
+  </div>
+  <div class="content-container clearfix">
     {{ content }}
   </div>
-  <div id="page-footer" class="page-footer clearfix">
+  <div class="footer-container clearfix">
 {% if paginator.total_pages > 1 %}
   {% if paginator.previous_page %}
-    <div class="footer-navigation"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&lt;&lt; elozo</a>
-  {% else %}
-    <div class="footer-navigation">&lt;&lt; elozo
+    <button onClick="window.location='{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}';" class="nav nav-back">elozo</button>
+    {% else %}
+    <button class="nav nav-back">elozo</button>
   {% endif %}
   {% if paginator.next_page %}
-     | <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">kovetkezo &gt;&gt;</a></div>
-  {% else %}
-     | kovetkezo &gt;&gt;</div>
+    <button onClick="window.location='{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}';" class="nav nav-forward">kovetkezo</button>
+    {% else %}
+    <button class="nav nav-forward">kovetkezo</button>
   {% endif %}
 {% endif %}
-    {% if paginator.total_pages == 1 %}
-    <div class="footer-law"><a href="/jog.html">Minden jog fenntartva.</a></div>
-    {% else %}
-    <div class="footer-law"><a href="../jog.html">Minden jog fenntartva.</a></div>
-    {% endif %}
+{% if paginator.total_pages == 1 %}
+    <p class="copyright-notice"><a href="/jog.html">/minden jog fenntartva.</a></p>
+  {% else %}
+    <p class="copyright-notice"><a href="../jog.html">/minden jog fenntartva.</a></p>
+  {% endif %}
   </div>
 </body>
 </html>

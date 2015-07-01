@@ -1,12 +1,15 @@
 ---
-title: ape blog
+title: majom blog
 layout: default
+description: "Omlengesek elvont dolgokrol, a vilagrol, meg minden szarrol."
 ---
 {% for page in paginator.posts %}
-    <div class="post-title"><a href="{{ page.url }}">{{ page.title }}</a></div>
-    <div class="post-content">
-      {{ page.content }}
+    <div class="post-container clearfix">
+      <p class="post-titel">{{ page.title }}</p>
+      <div class="post-content">
+        {{ page.content }}
+      </div>
+      <p class="post-footer">{{ page.date | date: "%-d %B %Y" }} / {% for tag in page.tags %}#{{ tag }} {% endfor %} / {% for category in page.categories %} @{{ category }} {% endfor %}</p>
+      <div class="post-end"></div>
     </div>
-    <div class="post-footer">{{ page.date | date: "%-d %B %Y" }} | {% for tag in page.tags %}#{{ tag }} {% endfor %} | {% for category in page.categories %} @{{ category }} {% endfor %}</div>
-    <div class="post-ending"></div>
 {% endfor %}
