@@ -1,0 +1,15 @@
+---
+title: archivum
+layout: default
+description: "Regi dolgokat felhanytorgatni"
+---
+    <div class="post-container clearfix">
+    <p class="post-titel">Idorendben visszafele</p>
+    	<div class="post-content">
+        	<ul>
+			{% for post in paginator.posts %}
+        	<li><a href="{{ post.url }}">//{{ post.date | date: "%-d %B %Y" }}/{{ post.title }}</a></li>
+			{% endfor %}
+			</ul>
+      </div>
+    </div>
