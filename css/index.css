@@ -5,7 +5,11 @@ body {
 }
 
 a {
-  color: rgb(224, 224, 224);
+  color: rgb(184, 184, 184);
+}
+
+a:hover {
+  background-color: rgb(24, 24, 24);
 }
 
 /*MENU*/
