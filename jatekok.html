@@ -1,0 +1,15 @@
+---
+title: jatekok
+layout: default
+description: "We've got hostiles!"
+---
+{% for post in site.categories.jatek %}
+    <div class="post-container clearfix">
+      <p class="post-titel">{{ post.title }}</p>
+      <div class="post-content">
+        {{ post.content }}
+      </div>
+      <p class="post-footer">{{ post.date | date: "%-d %B %Y" }} / {% for tag in post.tags %}#{{ tag }} {% endfor %} / {% for category in post.categories %} @{{ category }} {% endfor %}</p>
+      <div class="post-end"></div>
+    </div>
+{% endfor %}
