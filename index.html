@@ -5,7 +5,7 @@ description: "Omlengesek elvont dolgokrol, a vilagrol, meg minden szarrol."
 ---
 {% for post in paginator.posts %}
     <div class="post-container clearfix">
-      <p class="post-titel">{{ post.title }}</p>
+      <p class="post-titel" onClick="window.location='{{ post.url }}';">{{ post.title }}</p>
       <div class="post-content">
         {{ post.content }}
       </div>
