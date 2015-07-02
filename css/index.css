@@ -286,6 +286,11 @@ h6 {
   color: rgb(184, 184, 184);
 }
 
+em {
+  color: rgb(5, 5, 5);
+  background-color: rgb(164, 164, 164);
+}
+
 @media(max-width: 1024px) {
   .content-container {
     position: relative;
